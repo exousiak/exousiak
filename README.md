@@ -1,5 +1,5 @@
 ## Yekwon Kim
-
+Intuition, Preparation, Execution
 <br>
 
 ## Education
