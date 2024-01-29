@@ -4,7 +4,7 @@ here to put a dent in the universe
 <br>
 
 ## Education
-- B.S. in Kwangwoon University, Seoul, Republic Of Korea
+- B.S. in Kwangwoon University, Seoul, Republic of Korea
 - Major: Data Science 
 
 <br>
