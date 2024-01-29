@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, my name is Yekwon kim </b></h1>
+## Yekwon Kim
 
 <br>
 
