@@ -1,4 +1,29 @@
-### Hi there 👋
+**### Hi there 👋
+
+
+<h1 align="center"><b>Hi, my name is Yekwon kim </b></h1>
+
+<br>
+
+## Education
+- B.S. in Kwangwoon University, Seoul, Republic Of Korea
+- Major: Data Science 
+
+<br>
+
+## Interests
+- Computer Vision
+- Deep Learning
+
+<br>
+
+## CONTACT 
+- exousiak@naver.com 
+
+<br>
+<br>
+<br>
+
 
 <!--
 **exousiak/exousiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
