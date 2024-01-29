@@ -1,5 +1,5 @@
 ## Yekwon Kim
-here to put a dent in the universe
+Put a dent in the universe
 
 <br>
 
