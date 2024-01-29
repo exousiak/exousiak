@@ -1,5 +1,5 @@
 ## Yekwon Kim
-Put a dent in the universe
+Let's make a dent in the universe
 
 <br>
 
