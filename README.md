@@ -1,5 +1,5 @@
 ## Yekwon Kim
-Intuition, Preparation, Execution
+To put a dent in the universe
 <br>
 
 ## Education
@@ -14,7 +14,7 @@ Intuition, Preparation, Execution
 
 <br>
 
-## CONTACT 
+## Contact
 - exousiak@naver.com 
 
 <br>
