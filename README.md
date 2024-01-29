@@ -10,7 +10,7 @@ here to put a dent in the universe
 <br>
 
 ## Interests
-- Computer Vision
+- Data Analysis & Visualization
 - Deep Learning
 
 <br>
