@@ -6,19 +6,16 @@ Make a Dent in the Universe
 ## Education
 - B.S. in Kwangwoon University, Seoul, Republic of Korea
 - Major: Data Science 
-
 <br>
 
 ## Interests
 - Data Analysis & Visualization
 - Deep Learning
-
 <br>
 
 ## Contact
 - exousiak@naver.com 
 
-<br>
 <br>
 <br>
 
