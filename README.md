@@ -1,5 +1,5 @@
 ## Yekwon Kim
-Make a Dent in the Universe
+Put a Dent in the Universe
 
 <br>
 
