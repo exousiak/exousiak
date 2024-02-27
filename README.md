@@ -1,24 +1,20 @@
-## Yekwon Kim
-Make a Dent in the Universe
+*Make a Dent in the Universe* 🌠
 
-<br>
-
-## Interests
+Research Interests
+---
 - Data Analysis & Visualization
 - Deep Learning
-<br>
-
-## Education
+  
+Education
+---
 - B.S. in Kwangwoon University, Seoul, Republic of Korea (2017.03 ~ 2021.02)
 - Major: Data Science
-<br>
 
-## Work Experience
+Work Experience
+---
 - Research Intern at POSTECH Institute of Artificial Intelligence (2024.01 ~ 2024.03)
 - Signal Officer at ROK, The 1st Artillery Brigade (2021.03 ~ 2023.06)
 
-<br>
-<br>
 <br>
 
 
