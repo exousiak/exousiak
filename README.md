@@ -1,6 +1,6 @@
 *Make a Dent in the Universe* 🌠
 
-Research Interests
+Interests
 ---
 - Data Analysis & Visualization
 - Deep Learning
