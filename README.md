@@ -4,11 +4,15 @@ Interests
 ---
 - Data Analysis & Visualization
 - Deep Learning
-  
+
+<br>
+
 Education
 ---
 - B.S. in Kwangwoon University, Seoul, Republic of Korea (2017.03 ~ 2021.02)
 - Major: Data Science
+
+<br>
 
 Work Experience
 ---
