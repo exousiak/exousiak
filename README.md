@@ -15,6 +15,7 @@ Work Experience
 - Research Intern at POSTECH Institute of Artificial Intelligence (2024.01 ~ 2024.03)
 - Signal Officer at ROK, The 1st Artillery Brigade (2021.03 ~ 2023.06)
 
+<br>
 
 <!--
 **exousiak/exousiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
