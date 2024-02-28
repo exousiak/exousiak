@@ -7,8 +7,7 @@ Interests
 
 Education
 ---
-- B.S. in Kwangwoon University, Seoul, Republic of Korea (2017.03 ~ 2021.02)
-- Major: Data Science
+- B.S. in School of Data Science, Kwangwoon University (2017.03 ~ 2021.02)
 
 Work Experience
 ---
