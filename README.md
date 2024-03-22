@@ -13,7 +13,7 @@ Work Experience
 ---
 - Research Intern at POSTECH Institute of Artificial Intelligence (2024.01 ~ 2024.03)
 - Signal Officer at ROK, The 1st Artillery Brigade (2021.03 ~ 2023.06)
-- Instructor at D.LAB coding Academy (2020.01 ~ 2021.01)
+- Instructor at D.LAB Coding Academy (2020.01 ~ 2021.01)
 
 <br>
 
