@@ -11,9 +11,9 @@ Education
 
 Work Experience
 ---
-- Research Intern at POSTECH Institute of Artificial Intelligence (2024.01 ~ 2024.03)
+- Research Intern at Korea Institute of Science and Technology(KIST) (2024.07 ~ Present) 
+- Research Intern at POSTECH Institute of Artificial Intelligence(PIAI) (2024.01 ~ 2024.03)
 - Signal Officer at ROK, The 1st Artillery Brigade (2021.03 ~ 2023.06)
-- Instructor at D.LAB Code Academy (2020.01 ~ 2021.01)
 
 <br>
 
