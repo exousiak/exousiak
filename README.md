@@ -2,18 +2,18 @@
 
 Interests
 ---
-- Data Analysis & Visualization
-- Deep Learning
+- Computer Vision
+- Graph Networks
 
 Education
 ---
-- B.S. in School of Data Science, Kwangwoon University (2017.03 ~ 2021.02)
+- `2022.03 ~ 2024.02`  B.S. in School of Data Science, Kwangwoon University
 
 Work Experience
 ---
-- Research Intern at Korea Institute of Science and Technology (KIST) (2024.07 ~ Present) 
-- Research Intern at POSTECH Institute of Artificial Intelligence (PIAI) (2024.01 ~ 2024.03)
-- Signal Officer at ROK, The 1st Artillery Brigade (2021.03 ~ 2023.06)
+- `2024.07 ~ Present`  Research Intern at Korea Institute of Science and Technology (KIST) 
+- `2024.01 ~ 2024.03`  Research Intern at POSTECH Institute of Artificial Intelligence (PIAI)
+- `2021.03 ~ 2023.06`  Signal Officer at ROK, The 1st Artillery Brigade 
 
 <br>
 
