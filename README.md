@@ -1,6 +1,6 @@
 *Make a Dent in the Universe* 🌠
 
-Interests
+Research Interests
 ---
 - Computer Vision
 - Graph Networks
