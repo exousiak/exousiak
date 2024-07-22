@@ -3,7 +3,7 @@
 Research Interests
 ---
 - Computer Vision
-- Graph Networks
+- Multimodal learning
 
 Education
 ---
