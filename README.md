@@ -7,7 +7,7 @@ Research Interests
 
 Education
 ---
-- `2017.03 ~ 2021.02`  B.S. in School of Data Science, Kwangwoon University
+- `2017.03 ~ 2021.02`  B.S. in Data Science, Kwangwoon University
 
 Work Experience
 ---
